@@ -1,0 +1,1 @@
+Esta es una prueba de escritura realizada por el agente de Microsoft Foundry mediante GitHub MCP
